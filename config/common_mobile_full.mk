@@ -22,7 +22,7 @@ endif
 
 ifneq ($(TARGET_EXCLUDES_AUDIOFX),true)
 PRODUCT_PACKAGES += \
-    AudioFX
+    MusicFX
 endif
 
 # Extra cmdline tools
